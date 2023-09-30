@@ -1,0 +1,12 @@
+@use "../../sass/variables" as *;
+
+.header {
+  width: 100%;
+  background-color: $header-background;
+}
+
+.logo {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
